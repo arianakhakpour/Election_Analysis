@@ -1,0 +1,5 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+County Jefferson : Candidate name: Charles Casper Stockham - 19723 votes counted.County Jefferson : Candidate name: Diana DeGette - 17963 votes counted.County Jefferson : Candidate name: Raymon Anthony Doane - 1169 votes counted.County Denver : Candidate name: Charles Casper Stockham - 57188 votes counted.County Denver : Candidate name: Diana DeGette - 239282 votes counted.County Denver : Candidate name: Raymon Anthony Doane - 9585 votes counted.County Arapahoe : Candidate name: Charles Casper Stockham - 8302 votes counted.County Arapahoe : Candidate name: Diana DeGette - 15647 votes counted.County Arapahoe : Candidate name: Raymon Anthony Doane - 852 votes counted.

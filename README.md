@@ -25,14 +25,17 @@ Diana DeGette: 15,647 votes received
 Raymon Anthony Doane: 852 votes received
 
 > Which county had the largest number of votes?
+
 Denver had the largest number of votes with a total vote count of 306,055 ballots cast.
 
 > Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
 Charles Casper Stockham: received 85213 votes or 23.048543321675577% of the total vote count.
 Diana DeGette: received 272892 votes or 73.81224794501651% of the total vote count.
 Raymon Anthony Doane: received 11606 votes or 3.139208733307908% of the total vote count.
 
 > Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
 Winning Candidate is Diana DeGette with 272892 votes, which accounts for 73.8% of
 Total votes.
 
